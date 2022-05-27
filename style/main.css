@@ -19,7 +19,7 @@
   width: 100%;
   padding: 25px 0;
   transition: all .3s ease;
-  background-color: #135975;
+  background-color: #C8BF93;
 }
 .navbar.sticky {
   padding: 10px 0;
@@ -38,7 +38,7 @@
   list-style: none;
 }
 .menu-list li a {
-  color: white;
+  color: black;
   font-size: 20px;
   font-weight: bold;
   margin-left: 25px;
@@ -46,7 +46,7 @@
   transition: all .3s ease;
 }
 .menu-list li a:hover{
-  color: #e0be36b2;
+  color: white;
 }
 
 .highlight {
